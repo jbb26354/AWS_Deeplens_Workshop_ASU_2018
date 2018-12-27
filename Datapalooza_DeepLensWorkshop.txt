@@ -1,0 +1,23 @@
+
+DeepLens Machine Learning Stack
+===============================
+
+Codebase on Github
+https://github.com/mahendrabairagi/DeeplensWorkshop
+
+apps
+  Rekognition, transcribe, Polly, Comprehend, Lex
+platform
+  SageMaker
+Frameworks and Interfaces
+  Caffe2, CNTK, MXNet, PyTorch, TensorFlow, Chainer, Keras, Gluon
+Infreastructure
+  EC2 CPUs and GPUs, IoT, Edge
+  
+Logging in to the deeplens
+==========================
+
+  https://deeplensuniversityworkshops.signin.aws.amazon.com/console
+  userid = uni000, where 000 = machine number
+  pass = P@ssword1
+  
